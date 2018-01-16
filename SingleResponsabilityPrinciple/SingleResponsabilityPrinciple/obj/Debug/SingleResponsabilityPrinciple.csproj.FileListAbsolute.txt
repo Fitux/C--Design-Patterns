@@ -1,0 +1,6 @@
+C:\Users\ImFit\Documents\GitHub\C--Design-Patterns\SingleResponsabilityPrinciple\SingleResponsabilityPrinciple\bin\Debug\SingleResponsabilityPrinciple.exe.config
+C:\Users\ImFit\Documents\GitHub\C--Design-Patterns\SingleResponsabilityPrinciple\SingleResponsabilityPrinciple\bin\Debug\SingleResponsabilityPrinciple.exe
+C:\Users\ImFit\Documents\GitHub\C--Design-Patterns\SingleResponsabilityPrinciple\SingleResponsabilityPrinciple\bin\Debug\SingleResponsabilityPrinciple.pdb
+C:\Users\ImFit\Documents\GitHub\C--Design-Patterns\SingleResponsabilityPrinciple\SingleResponsabilityPrinciple\obj\Debug\SingleResponsabilityPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\ImFit\Documents\GitHub\C--Design-Patterns\SingleResponsabilityPrinciple\SingleResponsabilityPrinciple\obj\Debug\SingleResponsabilityPrinciple.exe
+C:\Users\ImFit\Documents\GitHub\C--Design-Patterns\SingleResponsabilityPrinciple\SingleResponsabilityPrinciple\obj\Debug\SingleResponsabilityPrinciple.pdb
